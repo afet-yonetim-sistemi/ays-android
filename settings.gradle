@@ -1,0 +1,3 @@
+rootProject.name = "ays"
+include ':app'
+include ':mapsview'
