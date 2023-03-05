@@ -1,7 +1,5 @@
-# Basic Dictionary
-#### A simple Basic App Dictionary build to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
-
-The App is using the [Dictionary Api] to translate word.
+# AYS Android Mobil App
+#### AYS Android Mobil App build to demonstrate the use of modern android architecture component with MVVM Architecture 🏗
 
 ### Build With 🏗️
 - [Kotlin] - Programming language for Android
@@ -33,5 +31,3 @@ The App is using the [Dictionary Api] to translate word.
 This app uses [MVVM (Model View View-Model)] architecture.
 
 ### License
-Copyright © 2022 Ferhat OZCELIK.
-This project is Apache License, Version 2.0 (the "License") licensed.
